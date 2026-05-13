@@ -25,9 +25,10 @@ The fear flag is built in: when an assumption traces back to fear, the skill nam
 
 ## Install
 
-```bash
-claude plugin add github.com/adelaidasofia/claude-deconstruct
-```
+Open Claude Code, paste:
+
+    /plugin marketplace add adelaidasofia/claude-deconstruct
+    /plugin install claude-deconstruct@claude-deconstruct
 
 Then in any Claude Code session:
 
@@ -36,6 +37,15 @@ Then in any Claude Code session:
 ```
 
 The skill will prompt for the problem you want to deconstruct.
+
+<details>
+<summary>Legacy install</summary>
+
+```bash
+claude plugin add github.com/adelaidasofia/claude-deconstruct
+```
+
+</details>
 
 ---
 

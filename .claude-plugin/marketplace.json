@@ -1,0 +1,15 @@
+{
+  "$schema": "https://code.claude.com/schemas/marketplace.json",
+  "name": "claude-deconstruct",
+  "owner": {
+    "name": "Mycelium AI",
+    "url": "https://myceliumai.co"
+  },
+  "plugins": [
+    {
+      "name": "claude-deconstruct",
+      "source": "./",
+      "description": "First-principles analyst for Claude Code. Surfaces hidden assumptions, establishes foundational truths, rebuilds the problem from scratch, and identifies the high-leverage move that conventional analysis would miss."
+    }
+  ]
+}
