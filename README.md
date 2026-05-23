@@ -1,5 +1,18 @@
 # claude-deconstruct
 
+
+<!-- mycelium-badges:start -->
+
+<p>
+  <a href="https://github.com/adelaidasofia/claude-deconstruct/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/adelaidasofia/claude-deconstruct?color=blue"></a>
+  <a href="https://github.com/adelaidasofia/claude-deconstruct/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/adelaidasofia/claude-deconstruct?color=eab308"></a>
+  <a href="https://github.com/adelaidasofia/claude-deconstruct/commits/main"><img alt="Last commit" src="https://img.shields.io/github/last-commit/adelaidasofia/claude-deconstruct"></a>
+  <a href="https://github.com/adelaidasofia/claude-deconstruct/issues"><img alt="Open issues" src="https://img.shields.io/github/issues/adelaidasofia/claude-deconstruct"></a>
+  <a href="https://myceliumai.co"><img alt="Built by Mycelium AI" src="https://img.shields.io/badge/built_by-Mycelium_AI-15B89A"></a>
+</p>
+
+<!-- mycelium-badges:end -->
+
 A Claude Code plugin for first-principles analysis. Surfaces hidden assumptions, establishes foundational truths, rebuilds the problem from scratch, and identifies the high-leverage move that conventional analysis would miss.
 
 Modeled on Aristotle's method: find the truths that cannot be derived from anything more basic, then reason upward from those alone.
